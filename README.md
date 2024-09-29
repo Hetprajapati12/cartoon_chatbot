@@ -36,6 +36,14 @@ To run the GUI version of the chatbot:
 - `chatbot.py`: Contains the core logic of the rule-based chatbot, including the definition of rules and response generation.
 - `gui.py`: Provides a graphical user interface for interacting with the chatbot.
 
+
+## Output 
+![output_chatbot_cartoon.png](https://github.com/Hetprajapati12/cartoon_chatbot/blob/main/output_chatbot_cartoon.png)
+
+## Output of Gui 
+
+![chatbot_cartoon_gui.png](https://github.com/Hetprajapati12/cartoon_chatbot/blob/main/chatbot_cartoon_gui.png)
+
 ## Possible Future Developments
 - Add more characters and their information to the knowledge base.
 - Enhance the GUI with more features like buttons and images.
